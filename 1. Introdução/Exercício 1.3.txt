@@ -1,0 +1,1 @@
+Sim. Isso possibilita o estabelecimento de um padrão CSS para a página, por exemplo.

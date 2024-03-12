@@ -1,0 +1,1 @@
+Muitos. É possível vincular inúmeros arquivos a uma mesma página HTML, isso possibilita por exemplo, o reaproveitamento de código e manutenção dos padrões.

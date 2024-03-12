@@ -1,0 +1,1 @@
+O elemento HTML que contém que contém elementos com metainformações sobre uma página web é o <head>.

@@ -1,0 +1,4 @@
+Quando as páginas de um site são totalmente compostas por arquivos prontos, dizemos que o site é
+estático. Quando as páginas (ao menos algumas delas) são geradas por uma aplicação web, dizemos
+que o site é dinâmico.
+Páginas de hipertexto estáticas são simples e rápidas, servindo conteúdo fixo a todos os usuários, ideal para sites com conteúdo que raramente muda, mas limitadas em personalização e interatividade. Páginas dinâmicas geram conteúdo em tempo real, permitindo uma experiência personalizada e interativa para cada usuário, com a facilidade de atualização via sistemas de gerenciamento de conteúdo. 

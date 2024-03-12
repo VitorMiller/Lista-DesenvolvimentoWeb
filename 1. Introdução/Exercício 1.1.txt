@@ -1,0 +1,5 @@
+HTML, CSS e Javascript. 
+
+- HTML, é uma linguagem de marcação. Ela é a responsável por definir quais elementos serão exibidos em uma determinada página. 
+- CSS é responsável por definir como os elementos de conteúdo serão mostrados.
+- Javascript é uma linguagem de programação que é usada para adicionar interatividade e funcionalidade às páginas web.

@@ -1,0 +1,6 @@
+1 - O usuário digita um URL na barra de endereços do navegador ou clica em um link que aponta para uma página de hipertexto estática.
+2 - O navegador solicita ao servidor DNS (Domain Name System) que traduza o nome de domínio do URL para o endereço IP correspondente do servidor onde a página está hospedada.
+3 - Uma vez que o endereço IP do servidor web tenha sido obtido, uma requisição HTTP é feita ao servidor web correspondente ao IP em questão - cada arquivo necessário para a renderização da página gera uma requisição HTTP. 
+4 - O servidor web recebe a requisição HTTP, processa-a e localiza o arquivo HTML solicitado no sistema de arquivos. Se o arquivo existir e houver permissão para acessá-lo, o servidor prepara uma resposta HTTP.
+5 - Ao receber a resposta do servidor, o navegador começa a renderizar a página de hipertexto estática. Isso inclui a interpretação do código HTML, a aplicação de estilos CSS e a execução de quaisquer scripts JavaScript referenciados.
+6 - Após a renderização completa, a página estática é exibida no navegador do usuário, completando o processo da requisição HTTP.
